@@ -193,39 +193,41 @@
      <Compile Include="Assets\HTC.UnityPlugin\VRModule\VRModuleDeviceState.cs" />
      <Compile Include="Assets\HTC.UnityPlugin\VRModule\VRModuleEvent.cs" />
      <Compile Include="Assets\HTC.UnityPlugin\VRModule\VRModuleManager.cs" />
+     <Compile Include="Assets\Score.cs" />
+     <Compile Include="Assets\ScoreManager.cs" />
      <None Include="Assets\HTC.UnityPlugin\ViveInputUtility\Resources\Unlit-AlphaWithFade.shader" />
  <Reference Include="Unity.Timeline.Editor">
- <HintPath>D:/Vr_Platforms_Publishing/PupperPong/VR/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+ <HintPath>D:/uni/Sem_Two/VR/Pupper Pong/PupperPong/PupperPong/VR/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>D:/Vr_Platforms_Publishing/PupperPong/VR/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>D:/uni/Sem_Two/VR/Pupper Pong/PupperPong/PupperPong/VR/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>D:/Vr_Platforms_Publishing/PupperPong/VR/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>D:/uni/Sem_Two/VR/Pupper Pong/PupperPong/PupperPong/VR/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline">
- <HintPath>D:/Vr_Platforms_Publishing/PupperPong/VR/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+ <HintPath>D:/uni/Sem_Two/VR/Pupper Pong/PupperPong/PupperPong/VR/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
  </Reference>
  <Reference Include="Unity.CollabProxy.Editor">
- <HintPath>D:/Vr_Platforms_Publishing/PupperPong/VR/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+ <HintPath>D:/uni/Sem_Two/VR/Pupper Pong/PupperPong/PupperPong/VR/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.XR.LegacyInputHelpers">
- <HintPath>D:/Vr_Platforms_Publishing/PupperPong/VR/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
+ <HintPath>D:/uni/Sem_Two/VR/Pupper Pong/PupperPong/PupperPong/VR/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.SpatialTracking">
- <HintPath>D:/Vr_Platforms_Publishing/PupperPong/VR/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
+ <HintPath>D:/uni/Sem_Two/VR/Pupper Pong/PupperPong/PupperPong/VR/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.SpatialTracking">
- <HintPath>D:/Vr_Platforms_Publishing/PupperPong/VR/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
+ <HintPath>D:/uni/Sem_Two/VR/Pupper Pong/PupperPong/PupperPong/VR/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>D:/Vr_Platforms_Publishing/PupperPong/VR/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>D:/uni/Sem_Two/VR/Pupper Pong/PupperPong/PupperPong/VR/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.DataPrivacy">
- <HintPath>D:/Vr_Platforms_Publishing/PupperPong/VR/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+ <HintPath>D:/uni/Sem_Two/VR/Pupper Pong/PupperPong/PupperPong/VR/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.XR.LegacyInputHelpers">
- <HintPath>D:/Vr_Platforms_Publishing/PupperPong/VR/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
+ <HintPath>D:/uni/Sem_Two/VR/Pupper Pong/PupperPong/PupperPong/VR/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2019.1.8f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -411,13 +413,13 @@
  <HintPath>C:/Program Files/Unity/Hub/Editor/2019.1.8f1/Editor/Data/UnityExtensions/Unity/TestRunner/net35/unity-custom/nunit.framework.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.Editor">
- <HintPath>D:/Vr_Platforms_Publishing/PupperPong/VR/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
+ <HintPath>D:/uni/Sem_Two/VR/Pupper Pong/PupperPong/PupperPong/VR/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.StandardEvents">
- <HintPath>D:/Vr_Platforms_Publishing/PupperPong/VR/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
+ <HintPath>D:/uni/Sem_Two/VR/Pupper Pong/PupperPong/PupperPong/VR/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.Tracker">
- <HintPath>D:/Vr_Platforms_Publishing/PupperPong/VR/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
+ <HintPath>D:/uni/Sem_Two/VR/Pupper Pong/PupperPong/PupperPong/VR/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
  </Reference>
  <Reference Include="netstandard">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2019.1.8f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
