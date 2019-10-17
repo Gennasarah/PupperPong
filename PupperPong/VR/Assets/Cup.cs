@@ -34,5 +34,4 @@ public class Cup : MonoBehaviour //Checks if a ball has landed in the cup and th
         }
     }
 
-
 }
